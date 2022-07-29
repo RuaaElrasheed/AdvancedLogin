@@ -1,0 +1,21 @@
+Email,البريد الالكتروني
+"Invalid login or password.","تسجيل دخول او كلمة مرور غير صحيحة"
+"Email or Mobile Number","البريد الالكتروني أو رقم الموبايل"
+"This account is not confirmed.","هذا الحساب غير مصدق عليه"
+"Login via email only","تسجيل الدخول عن طريق البريد الالكتروني فقط"
+"Login via customer attribute only","Login via customer attribute only"
+"Login via customer attribute and email","Login via customer attribute and email"
+"Registered Customers","Registered Customers"
+"* Required Fields","* حقول مطلوبه"
+"If you have an account, sign in with your email address.","إذا كان لديك حساب، سجل الدخول باستخدام عنوان بريدك الإلكتروني."
+label,label
+Password,كلمة المرور
+Login,تسجيل دخول
+"This is a required field.","الرجاء إدخال البيانات"
+"Forgot Your Password?","نسيت كلمة المرور؟"
+"Advanced Login","Advanced Login"
+"Login Mode","Login Mode"
+"Login Attribute","Login Attribute"
+"Customer attribute which is used for customer login.","Customer attribute which is used for customer login."
+"Login Attribute Label","Login Attribute Label"
+"Label which is used as label for the email field in customer login.","Label which is used as label for the email field in customer login."
